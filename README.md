@@ -1,2 +1,2 @@
 #### db-capstone-project
-#### Setting up repository for project
+#### In this project I worked as a database engineer for a restaurant called little lemon. They asked me to create a datamodel and database for there buiseness. In addition I made a number of stored procedures and to insert, update and delete data from the database. After setting up the database I connected the database to Python with the mysql/python connector module. As the final task I made a number of interactive visualizoations in Tableau and compiled them in a workbook and a dashboard.
